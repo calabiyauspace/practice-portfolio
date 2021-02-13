@@ -12,7 +12,7 @@
 8. [ИСР1.8](https://www.google.com)
 
 ## Вариативная самостоятельная работа
-1. [ВСР1.1](https://github.com/calabiyauspace/practice-portfolio/blob/main/2-1-рабочее-место-программиста.pdf)
-2. [ВСР1.2]()
-3. [ВСР1.3](https://www.google.com)
-4. [ВСР1.4](https://www.google.com)
+1. [ВСР2.1](https://github.com/calabiyauspace/practice-portfolio/blob/main/2-1-рабочее-место-программиста.pdf)
+2. [ВСР2.2]()
+3. [ВСР2.3](https://www.google.com)
+4. [ВСР2.4](https://www.google.com)
