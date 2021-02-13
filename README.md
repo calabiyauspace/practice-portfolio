@@ -2,7 +2,7 @@
 
 ## Инвариативная самостоятельная работа
 
-1. [ИСР1.1](https://www.google.com)
+1. [ИСР1.1](https://github.com/calabiyauspace/practice-portfolio/blob/main/Sokolova-Anna-1-1.pdf)
 2. [ИСР1.2](https://github.com/calabiyauspace/practice-portfolio/blob/main/1-2.pdf)
 3. [ИСР1.3](https://www.google.com)
 4. [ИСР1.4](https://www.google.com)
