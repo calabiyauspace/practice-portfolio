@@ -9,7 +9,7 @@
 5. [ИСР1.5](https://github.com/calabiyauspace/practice-portfolio/blob/main/Sokolova-Anna-1-5.pdf)
 6. [ИСР1.6](https://github.com/calabiyauspace/practice-portfolio/blob/main/Sokolova-Anna-1-6.pdf)
 7. [ИСР1.7](https://github.com/calabiyauspace/practice-portfolio/blob/main/Sokolova-Anna-1-7.pdf)
-8. [ИСР1.8](https://www.google.com)
+8. [ИСР1.8](https://github.com/calabiyauspace/practice-portfolio/blob/main/Sokolova-Anna-1-8.pdf)
 9. [ИСР1.9](https://www.google.com)
 10. [ИСР1.10](https://github.com/calabiyauspace/practice-portfolio/blob/main/Sokolova-Anna-1-10.pdf)
 11. [ИСР1.11](https://www.google.com)
