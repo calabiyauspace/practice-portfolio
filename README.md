@@ -19,4 +19,4 @@
 1. [ВСР2.1](https://github.com/calabiyauspace/practice-portfolio/blob/main/2-1-рабочее-место-программиста.pdf)
 2. [ВСР2.2](https://github.com/calabiyauspace/practice-portfolio/blob/main/Sokolova-Anna-2-2.pdf)
 3. [ВСР2.3](https://github.com/calabiyauspace/practice-portfolio/blob/main/Sokolova-Anna-2-3.pdf)
-4. [ВСР2.4](https://www.google.com)
+4. [ВСР2.4](https://github.com/calabiyauspace/practice-portfolio/blob/main/Sokolova-Anna-2-4.pdf)
