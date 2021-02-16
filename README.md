@@ -1,5 +1,10 @@
 # Учебная практика
 
+## Отчеты
+
+[Задание на учебную практику](https://github.com/calabiyauspace/practice-portfolio/blob/main/Соколова-Анна-Задание.pdf)
+[Отчет по прохождению практики]()
+
 ## 1. Инвариативная самостоятельная работа
 
 1. ИСР1 [Изучить и проанализировать печатные и Internet-источники по философским проблемам информатики](https://github.com/calabiyauspace/practice-portfolio/blob/main/Sokolova-Anna-1-1.pdf)
