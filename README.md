@@ -8,7 +8,7 @@
 
 ## 1. Инвариативная самостоятельная работа
 
-1. ИСР1 [Изучить и проанализировать печатные и Internet-источники по философским проблемам информатики](https://github.com/calabiyauspace/practice-portfolio/blob/main/Sokolova-Anna-1-1.pdf)
+1. ИСР1 [Изучить и проанализировать печатные и Internet-источники по философским проблемам информатики](https://github.com/calabiyauspace/practice-portfolio/blob/main/Sokolova-Anna-1-1-2.pdf)
 2. ИСР2 [Выделить важные этапы в истории развития информатики и их социальные последствия](https://github.com/calabiyauspace/practice-portfolio/blob/main/1-2.pdf)
 3. ИСР3 [Изучить стандарты и спецификации в сфере ИТ](https://github.com/calabiyauspace/practice-portfolio/blob/main/Sokolova-Anna-1-3.pdf)
 4. ИСР4 [Изучить и освоить комплекс физических упражнений для программиста](https://github.com/calabiyauspace/practice-portfolio/blob/main/Sokolova-Anna-1-4.pdf)
