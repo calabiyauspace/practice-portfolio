@@ -4,7 +4,7 @@
 
 [Задание на учебную практику](https://github.com/calabiyauspace/practice-portfolio/blob/main/Соколова-Анна-Задание.pdf)
 
-[Отчет по прохождении практики]()
+[Отчет по прохождении практики](https://github.com/calabiyauspace/practice-portfolio/blob/main/Соколова-Анна-отчет.pdf)
 
 ## 1. Инвариативная самостоятельная работа
 
